@@ -305,16 +305,16 @@ GAME_SHRINK                       | ছোট করো -
 GAME_ENLARGE                      | বড় করো
 
 // Game Settings UI
-GAME_SETTINGS_TITLE               | Game Settings
-GAME_SETTINGS_DESCRIPTION         | Click to toggle each game setting. 
-GAME_SETTINGS_EXIT                | Exit
-GAME_SETTINGS_DEFAULT             | Set to Default
-GAME_SETTINGS_DISPLAY_MODE        | Display Mode: %1
-GAME_SETTINGS_WINDOWED            | Windowed
-GAME_SETTINGS_BORDERLESS          | Borderless
-GAME_SETTINGS_FULLSCREEN          | Full Screen
-GAME_SETTINGS_DISPLAY_MODE_DESC   | Requires a restart. Windowed is fixed ratio and resizable. Borderless is a maximized window. Fullscreen is an exclusive maximized window.
-GAME_SETTINGS_GRAPHICS            | Graphics Level: %1
+GAME_SETTINGS_TITLE               | সেটিংস
+GAME_SETTINGS_DESCRIPTION         |             প্রতিটি সেটিঙকে টিপে পালটান।
+GAME_SETTINGS_EXIT                | বাহির
+GAME_SETTINGS_DEFAULT             | পূর্বনির্ধারিত সেটিং
+GAME_SETTINGS_DISPLAY_MODE        | পরিসীমা প্রকার: %1
+GAME_SETTINGS_WINDOWED            | সীমিত
+GAME_SETTINGS_BORDERLESS          | সিমারেখাহিন
+GAME_SETTINGS_FULLSCREEN          | অসীমিত
+GAME_SETTINGS_DISPLAY_MODE_DESC   | পুনরারম্ভ প্রয়োজন।
+GAME_SETTINGS_GRAPHICS            | প্রদর্শনের মান: %1
 GAME_SETTINGS_GRAPHICS_LOW        | Low
 GAME_SETTINGS_GRAPHICS_MED        | Medium
 GAME_SETTINGS_GRAPHICS_HIGH       | High
