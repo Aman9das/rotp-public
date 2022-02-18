@@ -306,29 +306,29 @@ GAME_ENLARGE                      | বড় করো
 
 // Game Settings UI
 GAME_SETTINGS_TITLE               | সেটিংস
-GAME_SETTINGS_DESCRIPTION         |             প্রতিটি সেটিঙকে টিপে পালটান।
+GAME_SETTINGS_DESCRIPTION         |             প্রতিটি সেটিঙকে টিপে পালটান ।
 GAME_SETTINGS_EXIT                | বাহির
 GAME_SETTINGS_DEFAULT             | পূর্বনির্ধারিত সেটিং
 GAME_SETTINGS_DISPLAY_MODE        | পরিসীমা প্রকার: %1
 GAME_SETTINGS_WINDOWED            | সীমিত
 GAME_SETTINGS_BORDERLESS          | সিমারেখাহিন
 GAME_SETTINGS_FULLSCREEN          | অসীমিত
-GAME_SETTINGS_DISPLAY_MODE_DESC   | পুনরারম্ভ প্রয়োজন।
+GAME_SETTINGS_DISPLAY_MODE_DESC   | পুনরারম্ভ প্রয়োজন ।
 GAME_SETTINGS_GRAPHICS            | প্রদর্শনের মান: %1
-GAME_SETTINGS_GRAPHICS_LOW        | Low
-GAME_SETTINGS_GRAPHICS_MED        | Medium
-GAME_SETTINGS_GRAPHICS_HIGH       | High
-GAME_SETTINGS_GRAPHICS_DESC       | Adjusts the graphics quality of game. Medium: Anti-Aliasing of images is off. Low: Animations are turned off.
-GAME_SETTINGS_TEXTURES            | Textures: %1
-GAME_SETTINGS_TEXTURES_NO         | No
-GAME_SETTINGS_TEXTURES_INTERFACE  | User Interface
-GAME_SETTINGS_TEXTURES_MAP        | Galaxy Map
-GAME_SETTINGS_TEXTURES_BOTH       | Interface and Map
-GAME_SETTINGS_TEXTURES_DESC       | Toggle the use of textures on the galaxy map or the various screens throughout the game.
-GAME_SETTINGS_SENSITIVITY         | Hover Sensitivity: %1
-GAME_SETTINGS_SENSITIVITY_HIGH    | High
-GAME_SETTINGS_SENSITIVITY_MEDIUM  | Medium
-GAME_SETTINGS_SENSITIVITY_LOW     | Low
+GAME_SETTINGS_GRAPHICS_LOW        | অনুত্তম
+GAME_SETTINGS_GRAPHICS_MED        | মধ্যম
+GAME_SETTINGS_GRAPHICS_HIGH       | উত্তম
+GAME_SETTINGS_GRAPHICS_DESC       | খেলার মধ্য ছবি এবং চলচিত্রের গুণমান |
+GAME_SETTINGS_TEXTURES            | গ্রথন: %1
+GAME_SETTINGS_TEXTURES_NO         | বাতিল
+GAME_SETTINGS_TEXTURES_INTERFACE  | পাঠ্য পটভূমি ইত্যাদি
+GAME_SETTINGS_TEXTURES_MAP        | তারামণ্ডল পটভূমি
+GAME_SETTINGS_TEXTURES_BOTH       | তারামণ্ডল এবং পাঠ্য পটভূমি
+GAME_SETTINGS_TEXTURES_DESC       | বিভিন্ন পাঠ্যের পিছনে এবং তারামণ্ডলের পটভূমির গ্রথন
+GAME_SETTINGS_SENSITIVITY         | বর্ণনা পুনরুজ্জীবন গতি: %1
+GAME_SETTINGS_SENSITIVITY_HIGH    | দ্রুতগতি
+GAME_SETTINGS_SENSITIVITY_MEDIUM  | মাঝারি
+GAME_SETTINGS_SENSITIVITY_LOW     | ধীরগতি
 GAME_SETTINGS_SENSITIVITY_DESC    | Toggle how quickly the galaxy map responds to mouse movement when updating the display panel.
 GAME_SETTINGS_MEMORY              | Show Memory Usage: %1
 GAME_SETTINGS_MEMORY_YES          | Yes
