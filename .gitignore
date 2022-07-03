@@ -6,3 +6,6 @@ target
 build.xml
 manifest.mf
 launch4j/Remnants/
+Remnants.cfg
+backup/
+recent.rotp

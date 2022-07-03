@@ -7,9 +7,9 @@
 //    You can only use keys that the game is looking for.
 //
 // Large number formatting
-NUM_FORMAT_THOUSANDS              | %1K
-NUM_FORMAT_MILLIONS               | %1M
-NUM_FORMAT_BILLIONS               | %1B
+NUM_FORMAT_THOUSANDS              | %1 হাজার
+NUM_FORMAT_MILLIONS               | %1 মিলিয়ন
+NUM_FORMAT_BILLIONS               | %1 বিলিয়ন
 
 // Star descriptions
 RED_STAR_DESCRIPTION              | Red stars are old and dull stars that commonly have poor planets.
@@ -292,128 +292,128 @@ GAME_TITLE_LINE_1                 | অগ্রদূতের
 GAME_TITLE_LINE_2                 | শেষ
 GAME_TITLE_LINE_3                 | অবশেষ
 GAME_DISCUSS_ONLINE               | আলোচনা করো
-GAME_MENU_CONTINUE                | বর্তমান দফা
-GAME_MENU_NEW_GAME                | নতুন দফা
-GAME_MENU_LOAD_GAME               | রক্ষিত দফা
-GAME_MENU_SAVE_GAME               | দফা সুরক্ষিত করো
+GAME_MENU_CONTINUE                | চলন্ত খেলা
+GAME_MENU_NEW_GAME                | নতুন খেলা
+GAME_MENU_LOAD_GAME               | সেভ করা খেলা লোড করো
+GAME_MENU_SAVE_GAME               | চলন্ত খেলা সুরক্ষিত করো
 GAME_MENU_SETTINGS                | সেটিংস
 GAME_MENU_OPEN_MANUAL             | নির্দেশাবলী
-GAME_MENU_EXIT                    | বাহির
-GAME_MENU_RESTART                 | পুনরারম্ভ
-GAME_VERSION                      | সংস্করণ: %1
+GAME_MENU_EXIT                    | বাইরে চলো
+GAME_MENU_RESTART                 | রিস্টার্ট
+GAME_VERSION                      | গেম ভার্যান: %1
 GAME_SHRINK                       | ছোট করো -
 GAME_ENLARGE                      | বড় করো
 
 // Game Settings UI
 GAME_SETTINGS_TITLE               | সেটিংস
-GAME_SETTINGS_DESCRIPTION         |             প্রতিটি সেটিঙকে টিপে পালটান ।
-GAME_SETTINGS_EXIT                | বাহির
-GAME_SETTINGS_DEFAULT             | পূর্বনির্ধারিত সেটিং
-GAME_SETTINGS_DISPLAY_MODE        | পরিসীমা প্রকার: %1
-GAME_SETTINGS_WINDOWED            | সীমিত
-GAME_SETTINGS_BORDERLESS          | সিমারেখাহিন
-GAME_SETTINGS_FULLSCREEN          | অসীমিত
-GAME_SETTINGS_DISPLAY_MODE_DESC   | পুনরারম্ভ প্রয়োজন ।
-GAME_SETTINGS_GRAPHICS            | প্রদর্শনের মান: %1
-GAME_SETTINGS_GRAPHICS_LOW        | অনুত্তম
-GAME_SETTINGS_GRAPHICS_MED        | মধ্যম
-GAME_SETTINGS_GRAPHICS_HIGH       | উত্তম
-GAME_SETTINGS_GRAPHICS_DESC       | খেলার মধ্য ছবি এবং চলচিত্রের গুণমান |
-GAME_SETTINGS_TEXTURES            | গ্রথন: %1
-GAME_SETTINGS_TEXTURES_NO         | বাতিল
-GAME_SETTINGS_TEXTURES_INTERFACE  | পাঠ্য পটভূমি ইত্যাদি
-GAME_SETTINGS_TEXTURES_MAP        | তারামণ্ডল পটভূমি
-GAME_SETTINGS_TEXTURES_BOTH       | তারামণ্ডল এবং পাঠ্য পটভূমি
-GAME_SETTINGS_TEXTURES_DESC       | বিভিন্ন পাঠ্যের পিছনে এবং তারামণ্ডলের পটভূমির গ্রথন
-GAME_SETTINGS_SENSITIVITY         | বর্ণনা পুনরুজ্জীবন গতি: %1
-GAME_SETTINGS_SENSITIVITY_HIGH    | দ্রুতগতি
-GAME_SETTINGS_SENSITIVITY_MEDIUM  | মাঝারি
-GAME_SETTINGS_SENSITIVITY_LOW     | ধীরগতি
-GAME_SETTINGS_SENSITIVITY_DESC    | Toggle how quickly the galaxy map responds to mouse movement when updating the display panel.
-GAME_SETTINGS_MEMORY              | Show Memory Usage: %1
-GAME_SETTINGS_MEMORY_YES          | Yes
-GAME_SETTINGS_MEMORY_NO           | No
-GAME_SETTINGS_MEMORY_DESC         | Toggles the display of memory usage statistics at the bottom right corner of the game. Useful for monitoring memory usage.
-GAME_SETTINGS_SOUNDS              | Sounds: %1
-GAME_SETTINGS_SOUNDS_OFF          | Muted
+GAME_SETTINGS_DESCRIPTION         | প্রতিটি সেটিঙকে টিপে পছন্দমতো পালটাও ।
+GAME_SETTINGS_EXIT                | ফেরত চলো
+GAME_SETTINGS_DEFAULT             | ডিফল্ট সেটিং
+GAME_SETTINGS_DISPLAY_MODE        | গেমের পরিসীমা: %1
+GAME_SETTINGS_WINDOWED            | ফ্রেম
+GAME_SETTINGS_BORDERLESS          | ফ্রেম বিহীন
+GAME_SETTINGS_FULLSCREEN          | ফুল স্ক্রিন
+GAME_SETTINGS_DISPLAY_MODE_DESC   | রিস্টার্ট প্রয়োজন।
+GAME_SETTINGS_GRAPHICS            | গ্রাফিক্সের মান: %1
+GAME_SETTINGS_GRAPHICS_LOW        | কম
+GAME_SETTINGS_GRAPHICS_MED        | মাঝারী
+GAME_SETTINGS_GRAPHICS_HIGH       | বেশি
+GAME_SETTINGS_GRAPHICS_DESC       | খেলার মধ্য ছবি আর অ্যানিমেশনের মান |
+GAME_SETTINGS_TEXTURES            | টেক্সচার: %1
+GAME_SETTINGS_TEXTURES_NO         | সব বন্দ
+GAME_SETTINGS_TEXTURES_INTERFACE  | প্যানেল ইত্যাদী
+GAME_SETTINGS_TEXTURES_MAP        | ছায়াপথ
+GAME_SETTINGS_TEXTURES_BOTH       | ছায়াপথ আর প্যানেল
+GAME_SETTINGS_TEXTURES_DESC       | বিভিন্ন প্যানেলের পিছনের আর ছায়াপথের নকশার পেছনের টেক্সচার (গ্রথন)
+GAME_SETTINGS_SENSITIVITY         | বর্ণনা রিফ্রেশ হওয়ার গতি: %1
+GAME_SETTINGS_SENSITIVITY_HIGH    | তাড়াতাড়ি
+GAME_SETTINGS_SENSITIVITY_MEDIUM  | মাঝারী
+GAME_SETTINGS_SENSITIVITY_LOW     | আস্তে
+GAME_SETTINGS_SENSITIVITY_DESC    | ছায়াপ বিভিন্ন বস্তুর বর্ণনা প্যানেলে মাউস চালাবার কতক্ষণ পর নতুন বস্তুর বর্ণনা দেখা যাবে।
+GAME_SETTINGS_MEMORY              | ব্যাবহার করা মেমোরি দেখান: %1
+GAME_SETTINGS_MEMORY_YES          | হ্যাঁ
+GAME_SETTINGS_MEMORY_NO           | না
+GAME_SETTINGS_MEMORY_DESC         | গেম কতো কম্পিউটার মেমোরি ব্যাবহার করছে সেই সংখ্যা স্ক্রিনের নিচে ডানদিকে দেখান।
+GAME_SETTINGS_SOUNDS              | আওয়াজের স্তর: %1
+GAME_SETTINGS_SOUNDS_OFF          | নিঃশব্দ
 GAME_SETTINGS_SOUNDS_ON           | %1/10
-GAME_SETTINGS_SOUNDS_DESC         | Click to mute or unmute sound effects within the game. Use the mousewheel to raise or lower the volume.
-GAME_SETTINGS_SOUNDS_DISABLED     | Disabled
-GAME_SETTINGS_SOUNDS_ERR_DESC     | Sounds disabled due to following error: %1
-GAME_SETTINGS_MUSIC               | Music: %1
-GAME_SETTINGS_MUSIC_OFF           | Muted
+GAME_SETTINGS_SOUNDS_DESC         | গেমের আওয়াজ চালু বা বন্দ করতে ক্লিক করুন। আওয়াজ বাড়াতে কমাতে স্ক্রোল করুন।
+GAME_SETTINGS_SOUNDS_DISABLED     | অকেজো
+GAME_SETTINGS_SOUNDS_ERR_DESC     | আওয়াজ অকেজো হয়ে গেছে এই error-এর জন্য: %1
+GAME_SETTINGS_MUSIC               | সংগীতের স্তর: %1
+GAME_SETTINGS_MUSIC_OFF           | নিঃশব্দ
 GAME_SETTINGS_MUSIC_ON            | %1/10
-GAME_SETTINGS_MUSIC_DESC          | Click to mute or unmute music within the game. Use the mousewheel to raise or lower the volume.
-GAME_SETTINGS_AUTOCOLONIZE        | Colonize: %1
-GAME_SETTINGS_AUTOCOLONIZE_YES    | Automatically
-GAME_SETTINGS_AUTOCOLONIZE_NO     | Always Prompt
-GAME_SETTINGS_AUTOCOLONIZE_DESC   | Toggle to auto-colonize and name planets immediately when colony ships arrive. This can be time-saving on very large maps.
-GAME_SETTINGS_AUTOBOMBARD         | Bombard: %1
-GAME_SETTINGS_AUTOBOMBARD_NO      | Always Prompt
-GAME_SETTINGS_AUTOBOMBARD_NEVER   | Never
-GAME_SETTINGS_AUTOBOMBARD_YES     | Always
-GAME_SETTINGS_AUTOBOMBARD_WAR     | Only War
-GAME_SETTINGS_AUTOBOMBARD_INVADE  | Only War and not Invading
-GAME_SETTINGS_AUTOBOMBARD_DESC    | Toggle to always prompt to bombard, never bombard, always bombard, only auto-bombard when at war, or only auto-bombard when at war with no invasion forces en route. 
-GAME_SETTINGS_BACKUP_OFF          | Off
-GAME_SETTINGS_BACKUP_ON           | Every %1 turns
-GAME_SETTINGS_BACKUP              | Backup: %1
-GAME_SETTINGS_BACKUP_DESC         | Enable to have your current game periodically saved in the backup folder with a unique name, allowing you to reload from previous turns.
-GAME_SETTINGS_SAVEDIR             | Save Directory: %1
-GAME_SETTINGS_SAVEDIR_DEFAULT     | Default
-GAME_SETTINGS_SAVEDIR_CUSTOM      | Custom
-GAME_SETTINGS_SAVEDIR_DESC1       | The save directory is currently set to the same directory as the game.
-GAME_SETTINGS_SAVEDIR_DESC2       | The save directory is currently set to: %1
+GAME_SETTINGS_MUSIC_DESC          | গেমের সংগীত চালু বা বন্দ করতে ক্লিক করুন। সংগীত বাড়াতে কমাতে স্ক্রোল করুন।
+GAME_SETTINGS_AUTOCOLONIZE        | উপনিবেশের স্থাপনা: %1
+GAME_SETTINGS_AUTOCOLONIZE_YES    | অটোম্যাটিক
+GAME_SETTINGS_AUTOCOLONIZE_NO     | জিগ্যেস করো
+GAME_SETTINGS_AUTOCOLONIZE_DESC   | বিমান নতুন গ্রহে পৌঁছানোর পরেই গ্রহে উপনিবেশ স্থাপন আর নামকরণ কিভাবে হবে।
+GAME_SETTINGS_AUTOBOMBARD         | অটোম্যাটিক বোমাবর্ষণ: %1
+GAME_SETTINGS_AUTOBOMBARD_NO      | জিগ্যাস করো
+GAME_SETTINGS_AUTOBOMBARD_NEVER   | কক্ষনোই না
+GAME_SETTINGS_AUTOBOMBARD_YES     | সব সময়
+GAME_SETTINGS_AUTOBOMBARD_WAR     | কেবল জুদ্ধে
+GAME_SETTINGS_AUTOBOMBARD_INVADE  | কেবল জুদ্ধে জখন কনও শত্রুপক্ষের বিমান আক্রমণ করছে না।
+GAME_SETTINGS_AUTOBOMBARD_DESC    | বিমান শত্রুপক্ষের গ্রহে পৌঁছানোর পরেই গ্রহে বোমাবর্ষণ কিভাবে হবে।
+GAME_SETTINGS_BACKUP_OFF          | বন্দ
+GAME_SETTINGS_BACKUP_ON           | প্রত্যক %1 দান
+GAME_SETTINGS_BACKUP              | ব্যাকাপ: %1
+GAME_SETTINGS_BACKUP_DESC         | চলন্ত খেলা কে কয়েক দান পর-পর একটি ব্যাকাপ ফোল্ডারে সেভ করো।
+GAME_SETTINGS_SAVEDIR             | ব্যাকাপ ফোল্ডার: %1
+GAME_SETTINGS_SAVEDIR_DEFAULT     | ডিফল্ট
+GAME_SETTINGS_SAVEDIR_CUSTOM      | পছন্দের ফোল্ডার
+GAME_SETTINGS_SAVEDIR_DESC1       | গেমেরই ফোল্ডার এখন ব্যাকাপ ফোল্ডার।
+GAME_SETTINGS_SAVEDIR_DESC2       | ব্যাকাপ ফোল্ডার এখন: %1
 
 // Load Game UI
-LOAD_GAME_TITLE                   | Load Game
-LOAD_GAME_AUTOSAVE                | Most Recent Autosave
-LOAD_GAME_BACKUP_DIR              | Backup Directory: %1 files
-LOAD_GAME_SAVE_DIR                | Save Directory: %1 files
-LOAD_GAME_FILENAME                | Sort by Filename
-LOAD_GAME_DATE                    | by Date
-LOAD_GAME_SIZE                    | by Size
-LOAD_GAME_LOADING                 | Loading...
-LOAD_GAME_BAD_VERSION             | Cannot load saved game file: %1. This file may be corrupt or outdated.
-LOAD_GAME_CANCEL                  | Cancel
-LOAD_GAME_OK                      | Load
+LOAD_GAME_TITLE                   | খেলা লোড করো
+LOAD_GAME_AUTOSAVE                | শেষ তৈরি অটোসেভ খেলা
+LOAD_GAME_BACKUP_DIR              | ব্যাকাপ ফোল্ডার: %1 files
+LOAD_GAME_SAVE_DIR                | সেভ ফোল্ডার: %1 files
+LOAD_GAME_FILENAME                | ফাইলের নামের উপর অনুক্রম
+LOAD_GAME_DATE                    | তারিখের উপর
+LOAD_GAME_SIZE                    | সাইজের উপর
+LOAD_GAME_LOADING                 | খেলা লোড হচ্ছে...
+LOAD_GAME_BAD_VERSION             | খেলার সেভ ফাইল %1 লোড হচ্ছে না। ফাইলটি করাপ্ট বা পুরনো হয়ে গেছে।
+LOAD_GAME_CANCEL                  | ফেরত চলো
+LOAD_GAME_OK                      | লোড করো
 LOAD_GAME_TOO_LONG                | ...
 
 // Save Game UI
-SAVE_GAME_TITLE                   | Save Game
-SAVE_GAME_FILENAME                | Sort by Filename
-SAVE_GAME_DATE                    | by Date
-SAVE_GAME_SIZE                    | by Size
-SAVE_GAME_SAVING                  | Saving...
-SAVE_GAME_CANCEL                  | Cancel
-SAVE_GAME_OK                      | Save
+SAVE_GAME_TITLE                   | খেলা সেভ করো
+SAVE_GAME_FILENAME                | ফাইলের নামের উপর অনুক্রম
+SAVE_GAME_DATE                    | তারিখের উপর
+SAVE_GAME_SIZE                    | সাইজের উপর
+SAVE_GAME_SAVING                  | খেলা সেভ করো...
+SAVE_GAME_CANCEL                  | ফেরত চলো
+SAVE_GAME_OK                      | সেভ করো
 
 // Intro UI
-INTRO_BEGIN                       | Begin
+INTRO_BEGIN                       | শুরু করো
 
 // MAIN UI - Bottom Navigation options
-MAIN_NAVIGATION_GAME              | Game
-MAIN_NAVIGATION_DESIGN            | Designs
-MAIN_NAVIGATION_FLEETS            | Fleets
-MAIN_NAVIGATION_SYSTEMS           | Systems
-MAIN_NAVIGATION_RACES             | Races
-MAIN_NAVIGATION_COLONIES          | Colonies
-MAIN_NAVIGATION_TECH              | Tech
-MAIN_NAVIGATION_NEXT_TURN         | Next Turn
-MAIN_NAVIGATION_NEXT_YEAR         | Next Year
-MAIN_YEAR_DISPLAY                 | Year  %1
-MAIN_TURN_DISPLAY                 | Turn  %1
-MAIN_SPY_REPORT                   | Spy
-MAIN_TECH_NONE                    | No Research
-MAIN_TECH_COMPLETED               | Research Completed
+MAIN_NAVIGATION_GAME              | খেলা
+MAIN_NAVIGATION_DESIGN            | বিমানবিশেষ
+MAIN_NAVIGATION_FLEETS            | বিমানবাহিনি
+MAIN_NAVIGATION_SYSTEMS           | বিশ্লেষণ
+MAIN_NAVIGATION_RACES             | জাতিবিশেষ
+MAIN_NAVIGATION_COLONIES          | উপনিবেশ
+MAIN_NAVIGATION_TECH              | বিজ্ঞান
+MAIN_NAVIGATION_NEXT_TURN         | পরের দান
+MAIN_NAVIGATION_NEXT_YEAR         | পরের বছর
+MAIN_YEAR_DISPLAY                 | বছর %1
+MAIN_TURN_DISPLAY                 | দান %1
+MAIN_SPY_REPORT                   | গুপ্তচর
+MAIN_TECH_NONE                    | No গবেষণা
+MAIN_TECH_COMPLETED               | গবেষণা শেষ
 MAIN_TECH_RP_REMAINING            | %1 RP Remaining
-MAIN_TECH_RP_DISCOVERY            | Discovery Imminent
+MAIN_TECH_RP_DISCOVERY            | আবিষ্কার আসন্ন
 MAIN_TECH_RESERVE_BC              | %1 BC
-MAIN_TECH_RESERVE_TAX_ALL         | Taxing %1% of production on all colonies
-MAIN_TECH_RESERVE_TAX             | Taxing %1% of production on developed colonies
-MAIN_TECH_RESERVE_TAX_NONE        | No tax levied on colony production
-MAIN_HELP_ALL                     | Help - click to cycle through help information for a particular screen. Hit escape to cancel.
-MAIN_HELP_1A                      | Each star system divides its production into five areas. Grayed bars indicate that the production bar has been locked and will not change. Click on the name to lock/unlock.
+MAIN_TECH_RESERVE_TAX_ALL         | সমস্ত উপনিবেশের উপর উৎপাদনের %1% কর
+MAIN_TECH_RESERVE_TAX             | উন্নত উপনিবেশের উপর উৎপাদনের %1% কর
+MAIN_TECH_RESERVE_TAX_NONE        | উৎপাদনের উপর কর আদায় করা হয় না
+MAIN_HELP_ALL                     | সাহায্য - একটি নির্দিষ্ট স্ক্রিনের সহায়তা তথ্যের জন্য চক্রাকারে টিপুন। ফেরত জেতে esc টিপুন।
+MAIN_HELP_1A                      | প্রতিটি গ্রহমণ্ডলের উৎপাদনের পাঁচটি ভাগ বার দিয়ে দেখানো হয়। ধূসর বার দেখায় যে উৎপাদন নির্দিষ্ট করা আছে আর পরিবর্তন হবে না। নির্দিষ্ট/অনির্দিষ্ট করতে নামের উপর ক্লিক করুন।
 MAIN_HELP_1B                      | Shipyard - constructs the selected ship design. Large ships may take multiple turns.
 MAIN_HELP_1C                      | Defenses - builds and upgrades missile bases up to the specified limit and planetary shields when available.
 MAIN_HELP_1D                      | Industry - builds factories which increase overall colony production.
