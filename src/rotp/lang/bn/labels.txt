@@ -393,9 +393,9 @@ INTRO_BEGIN                       | শুরু করো
 
 // MAIN UI - Bottom Navigation options
 MAIN_NAVIGATION_GAME              | খেলা
-MAIN_NAVIGATION_DESIGN            | বিমানবিশেষ
+MAIN_NAVIGATION_DESIGN            | বিমানরচনা
 MAIN_NAVIGATION_FLEETS            | বিমানবাহিনি
-MAIN_NAVIGATION_SYSTEMS           | বিশ্লেষণ
+MAIN_NAVIGATION_SYSTEMS           | গ্রহবিশ্লেষণ
 MAIN_NAVIGATION_RACES             | জাতিবিশেষ
 MAIN_NAVIGATION_COLONIES          | উপনিবেশ
 MAIN_NAVIGATION_TECH              | বিজ্ঞান
@@ -414,11 +414,11 @@ MAIN_TECH_RESERVE_TAX             | উন্নত উপনিবেশের 
 MAIN_TECH_RESERVE_TAX_NONE        | উৎপাদনের উপর কর আদায় করা হয় না
 MAIN_HELP_ALL                     | সাহায্য - একটি নির্দিষ্ট স্ক্রিনের সহায়তা তথ্যের জন্য চক্রাকারে টিপুন। ফেরত জেতে esc টিপুন।
 MAIN_HELP_1A                      | প্রতিটি গ্রহমণ্ডলের উৎপাদনের পাঁচটি ভাগ বার দিয়ে দেখানো হয়। ধূসর বার দেখায় যে উৎপাদন নির্দিষ্ট করা আছে আর পরিবর্তন হবে না। নির্দিষ্ট/অনির্দিষ্ট করতে নামের উপর ক্লিক করুন।
-MAIN_HELP_1B                      | Shipyard - constructs the selected ship design. Large ships may take multiple turns.
-MAIN_HELP_1C                      | Defenses - builds and upgrades missile bases up to the specified limit and planetary shields when available.
-MAIN_HELP_1D                      | Industry - builds factories which increase overall colony production.
-MAIN_HELP_1E                      | Ecology  - cleans industrial waste, terraforms the planet, and can increase population growth.
-MAIN_HELP_1F                      | Technology - adds to the empire's overall research.
+MAIN_HELP_1B                      | বিমানবন্দর - নির্দেশিত বিমান তৈরি করা হয়। বড় বিমান একাধিক দান নিতে পারে।
+MAIN_HELP_1C                      | প্রতিরক্ষা - নির্দেশিত সংখ্যার মিসাইল বেস আর গ্রহবর্ম তৈরি এবং উন্নত করা হয়।
+MAIN_HELP_1D                      | শিল্পনির্মাণ - উৎপাদন বাড়াতে কারখানা তৈরি করা হয়।
+MAIN_HELP_1E                      | প্রকৃতি - শিল্প বর্জ্য পরিষ্কার, গ্রহ টেরাফর্ম এবং জনসংখ্যা বৃদ্ধি করা হয়।
+MAIN_HELP_1F                      | বিজ্ঞান - সাম্রাজ্যর গবেষণাতে অবদান দেওয়া হয়।
 MAIN_HELP_1G                      | Ratio bars show the breakdown of a planet's production.  The spending for each bar can be adjusted by mousewheel, clicking within the bar, or clicking on the left/right arrows for each bar.
 MAIN_HELP_1H                      | The expected result of spending for an area is displayed to the right of each bar. Overflow spending will be sent to the empire's treasury reserve.
 MAIN_HELP_2A                      | Planetary shield level for the colony. Shields cannot be constructed on planets within a nebula.
